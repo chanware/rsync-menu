@@ -29,7 +29,7 @@ rsync is powerful but intimidating. When syncing large folders, you get flooded 
 mkdir -p ~/Scripts
 
 # Download the script
-curl -o ~/Scripts/sync_menu.sh https://raw.githubusercontent.com/yourusername/rsync-menu/main/sync_menu.sh
+curl -o ~/Scripts/sync_menu.sh https://raw.githubusercontent.com/chanware/rsync-menu/main/sync_menu.sh
 
 # Make it executable
 chmod +x ~/Scripts/sync_menu.sh
